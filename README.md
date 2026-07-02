@@ -1,4 +1,4 @@
-# Fabian Gutiérrez | Cloud Infrastructure & Systems Administrator
+# Fabian Gutiérrez | Cloud Infrastructure | Systems & Network Administrator
 
 Infrastructure & Systems Administrator based in Madrid, Spain, focused on **cloud infrastructure**, **enterprise networking**, **systems administration**, and **Microsoft Azure**.
 
@@ -61,84 +61,24 @@ My primary areas of interest include:
 
 ## ☁️ Azure Infrastructure Roadmap
 
-A comprehensive learning and reference repository covering Microsoft Azure administration while preparing for the **Microsoft AZ-104: Azure Administrator** certification.
+A comprehensive Azure learning platform developed while preparing for the Microsoft AZ-104 certification.
 
-Rather than being a collection of exam notes, the project is designed as long-term technical documentation based on official Microsoft documentation and real administration scenarios.
+It brings together structured technical documentation, architecture diagrams, best practices, automation examples, security guidance, hands-on labs, and an interactive AZ-104 Exam Simulator into a single learning platform.
 
-### Highlights
+### 🔗 Explore
 
-- 🏛️ Identity & Governance
-- 💻 Compute
-- 💾 Storage
-- 🌐 Networking
-- 📊 Monitoring & BCDR
-- 💰 Cost Management
-- ⚙️ Automation
-- 🔐 Security
-- 🧪 Hands-on Azure Labs *(In Progress)*
-
-### Included Resources
-
-- 📚 Comprehensive technical documentation
-- 🏗️ Architecture diagrams
-- ⚙️ Azure CLI & PowerShell examples
-- 📖 Microsoft best practices
-- ⚠️ Common pitfalls and troubleshooting
-- 🎯 AZ-104 exam focus
-- 📝 **Interactive AZ-104 Exam Simulator (Custom GPT)** for knowledge reinforcement
-- 📑 References to official Microsoft documentation
-
-**Repository**
-
-👉 https://github.com/FgmBvB/azure-infrastructure-roadmap
+- 📂 [Azure Infrastructure Roadmap](https://github.com/FgmBvB/azure-infrastructure-roadmap)
+- 🤖 [Launch the AZ-104 Exam Simulator](https://chatgpt.com/g/g-6a46705c251881918cd0a4a926255c17-az-104-exam-simulator)
 
 ---
 
 ## 🖥️ Kubernetes Classroom Infrastructure (ASIR Final Project)
 
-Technical Proof of Concept demonstrating how Kubernetes-based development environments can be integrated into existing Windows classrooms managed by Active Directory without replacing the current infrastructure.
+Technical Proof of Concept demonstrating how Kubernetes-based development environments can be integrated into existing Windows classrooms managed by Active Directory without replacing the existing infrastructure.
 
-### Technologies
+### 🔗 Explore
 
-- Kubernetes (k3s)
-- Windows 11
-- WSL2
-- Active Directory
-- PowerShell
-- Bash
-- Portainer
-- VS Code Server
-
----
-
-# 💼 Professional Experience
-
-### 🚀 Arquimea Space
-
-- Active Directory administration
-- Enterprise IT support
-- User lifecycle management
-- Cisco infrastructure
-- Asset management
-
-### 🎮 Ilusorium Studios
-
-- Windows Server administration
-- Active Directory
-- Enterprise networking
-- Backup infrastructure
-- Data center deployment
-
----
-
-# 🎯 Current Focus
-
-- ☁️ Microsoft Azure
-- 🏗️ Cloud Infrastructure
-- ⚙️ Infrastructure Automation
-- 🔒 Cloud Security
-- 📚 Technical Documentation
-- 🧪 Hands-on Azure Labs
+- 📂 [Kubernetes Classroom Infrastructure](https://github.com/FgmBvB/WSL2-Kubernetes-Classroom-Lab)
 
 ---
 
