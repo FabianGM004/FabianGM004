@@ -68,7 +68,7 @@ It brings together structured technical documentation, architecture diagrams, be
 ### 🔗 Explore
 
 - 📂 [Azure Infrastructure Roadmap](https://github.com/FgmBvB/azure-infrastructure-roadmap)
-- 🤖 [Launch the AZ-104 Exam Simulator](https://chatgpt.com/g/g-6a46705c251881918cd0a4a926255c17-az-104-exam-simulator)
+- 🤖 [Launch the AZ-104 Exam Simulator]((https://az-104-exams-simulator-eight.vercel.app/))
 
 ---
 
